@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [a Monster Hunter API](https://github.com/MonsterHunterRise-API)
 
-- 📫 How to reach me **andrewtakuya@gmail.com**
+- 📫 How to reach me **TrenchTemplarGH@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
