@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Takuya</h1>
 <h3 align="center">A fullstack developer living in Tokyo</h3>
 
-- 🪡 I’m currently working on [niidl](https://www.niidl.co/)
-
-- 👯 I’m looking to collaborate on [a Monster Hunter API](https://github.com/MonsterHunterRise-API)
 
 - 📫 How to reach me **TrenchTemplarGH@gmail.com**
 
